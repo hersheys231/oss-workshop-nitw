@@ -7,7 +7,7 @@ Thanks for contributing! Please follow these steps:
    ```bash
    git clone https://github.com/<your-username>/oss-workshop-nitw.git
    cd oss-workshop-nitw
-   git remote add upstream https://github.com/<owner-username>/oss-workshop-nitw.git
+   git remote add upstream https://github.com/harshiniramasamy5-star/oss-workshop-nitw.git
    ```
 3. **Create a branch** — never work on `main`:
    `fix/<issue-number>-<short-name>` (e.g. `fix/1-readme-typos`)
