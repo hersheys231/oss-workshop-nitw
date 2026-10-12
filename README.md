@@ -1,10 +1,10 @@
 # OSS Workshop — NIT Warangal
 
-Welcome to the open source workshop practise repo! This repo is a safe place to make your very first pull request.
+Welcome to the open source workshop practice repo! This repo is a safe place to make your very first pull request.
 
 ## What you will learn
 
-- How to fork and clone a repositry
+- How to fork and clone a repository
 - How to create a branch and commit changes
 - How to open a pull request and respond to review
 
