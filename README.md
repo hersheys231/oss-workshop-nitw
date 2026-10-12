@@ -8,6 +8,12 @@ Welcome to the open source workshop practise repo! This repo is a safe place to 
 - How to create a branch and commit changes
 - How to open a pull request and respond to review
 
+- ## Workshop details
+
+- Date: 14 October 2026
+- Venue: <venue>
+- Hosts: Harshini, Archit
+
 ## How to contribute
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before you start.
